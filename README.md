@@ -107,3 +107,5 @@
 ---
 
 *Data Analyst Portfolio Project — Jan 2022 to Dec 2024 | Microsoft Excel*
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/6bdfd62e-7bc1-4d9f-b0ca-6e3abe30ae40" />
+
